@@ -307,6 +307,10 @@ button:hover {
   text-align: left;
 }
 
+.footer{
+  background-image: url("Assets/white_stripes.png");  
+}
+
 .footer--landing {
   position: absolute;
   bottom: 0;
